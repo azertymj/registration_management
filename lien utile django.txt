@@ -1,0 +1,13 @@
+student
+geeksui.codescandy.com/geeks/pages/dashboard-student.html (affcihage de different cours de la classe)
+geeksui.codescandy.com/geeks/pages/invoice.html (affichage des document envoyer pour l'admission)
+geeksui.codescandy.com/geeks/pages/student-quiz-start.html (quiz-personne)geeksui.codescandy.com/geeks/pages/profile-edit.html (editer le profil)
+geeksui.codescandy.com/geeks/pages/security.html (pour la securite)
+geeksui.codescandy.com/geeks/pages/notifications.html( nitification parametre)
+geeksui.codescandy.com/geeks/pages/delete-profile.html (possibiliter de supprimer le compte)
+(boutton de deconnection)
+Admin
+geeksui.codescandy.com/geeks/pages/dashboard/admin-course-overview.html (page de verification de demande)
+geeksui.codescandy.com/geeks/pages/dashboard/admin-course-category.html (liste de demande)
+geeksui.codescandy.com/geeks/pages/dashboard/admin-cms-post.html (recapitulatif des modifications de student)
+geeksui.codescandy.com/geeks/pages/dashboard/calendar.html (calendrier)
